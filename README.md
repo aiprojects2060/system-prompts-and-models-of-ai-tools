@@ -42,10 +42,9 @@ You can show your support via:
 
 - **PayPal:** `lucknitelol@proton.me`
 - **Cryptocurrency:**  
-  - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`  
-  - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`  
-  - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
-- **Patreon:** https://patreon.com/lucknite
+  - **BTC:** `bc1qykrj73zmcu243xgh9lp5nzpwyrzs6cttxscltt`  
+  - **LTC:** `ltc1quw0g347e9zn4qk8rgqlxu2uxrs0n3q2h5d6rfw`  
+  - **ETH:** `0x91fb607c658133622009Ccc2c3879F371E15f9d9`
 
 🙏 Thank you for your support!
 
