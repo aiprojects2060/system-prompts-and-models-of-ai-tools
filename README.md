@@ -40,7 +40,6 @@ If you find this collection valuable and appreciate the effort involved in obtai
 
 You can show your support via:
 
-- **PayPal:** `lucknitelol@proton.me`
 - **Cryptocurrency:**  
   - **BTC:** `bc1qykrj73zmcu243xgh9lp5nzpwyrzs6cttxscltt`  
   - **LTC:** `ltc1quw0g347e9zn4qk8rgqlxu2uxrs0n3q2h5d6rfw`  
