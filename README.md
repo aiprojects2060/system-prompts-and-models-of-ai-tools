@@ -25,12 +25,10 @@ It’s not marketing fluff, it’s just a better way to build.
 
 <a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-📜 Over **8500+ lines** of insights into their structure and functionality.  
+📜 Over **9000+ lines** of insights into their structure and functionality.  
 
 [![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-
-<!-- GitAds-Verify: 1XH3NPLCWBUSIAJ4V7BN4OSH4LXN21WW -->
 
 ---
 
@@ -80,7 +78,7 @@ You can show your support via:
 - [**Orchids.app Folder**](./Orchids.app/)
 - [**Junie Folder**](./Junie/)
 - [**Kiro**](./Kiro/)
-- [**Wrap.dev**](./Warp.dev/)
+- [**Warp.dev**](./Warp.dev/)
 - [**Z.ai Code**](./Z.ai%20Code/)
 - [**Open Source prompts Folder**](./Open%20Source%20prompts/)
   - [Codex CLI](./Open%20Source%20prompts/Codex%20CLI/)
@@ -95,7 +93,7 @@ You can show your support via:
 
 > Open an issue.
 
-> **Latest Update:** 08/08/2025
+> **Latest Update:** 11/08/2025
 
 ---
 
